@@ -1,0 +1,7 @@
+Iosevka
+Firacode
+Roboto
+DejaVu
+Hack
+Monoid
+Monospace Linux
