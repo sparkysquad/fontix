@@ -5,3 +5,4 @@ DejaVu
 Hack
 Monoid
 Monospace Linux
+Cascadia
